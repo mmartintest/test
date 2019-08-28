@@ -1,0 +1,4 @@
+#funcion eliminarUsuario ();
+
+#funcion eliminarTodos ();
+
