@@ -1,0 +1,3 @@
+#funcion crear usuario
+
+#funcion ver usuario
